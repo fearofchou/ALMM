@@ -7,7 +7,6 @@ sys.path.append('/home/fearofchou/ND/m195/max/paper/MM16/code/eval')
 import evalu
 import pickle
 
-out_fp = '/home/fearofchou/ND/m195/max/paper/Recsys16/data/PMF'
 class PF():
     def __init__(self, ls=10, reg=1, alp=1, iters=10):
         print 'Model parameter'
