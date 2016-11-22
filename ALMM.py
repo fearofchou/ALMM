@@ -3,8 +3,8 @@ import collections as cl
 import multiprocessing as mp
 import sys
 import time
-sys.path.append('/home/fearofchou/ND/m195/max/paper/MM16/code/eval')
-import evalu
+#sys.path.append('/home/fearofchou/ND/m195/max/paper/MM16/code/eval')
+#import evalu
 import pickle
 
 class PF():
